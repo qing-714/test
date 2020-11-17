@@ -1,2 +1,3 @@
 learn git frist day
 i am qing 
+git is a free software
